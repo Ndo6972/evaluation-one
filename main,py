@@ -1,0 +1,27 @@
+#printing the average
+elif average >= 67 and average <= 69:
+  print("your average is" , average, "and your grade is a C+")
+
+#printing the average
+elif average >= 63 and average <=66:
+  print("your average is" , average, "and your grade is a C")
+
+#printing the average
+elif average >= 60 and average<= 62:
+  print("your average is" , average, "and your grade is a C-")
+
+#printing the average
+elif average >= 57 and average <= 61:
+  print("your average is" , average, "and your grade is a D+")
+
+#printing the average
+elif average >= 54 and average <= 56:
+  print("your average is" , average, "and your grade is a D")
+
+#printing the average
+elif average >= 50 and average <= 53:
+  print("your avergae is" , average, "and your grade is a D-")
+
+#printing the average and saying you failed
+else:
+  print("your average is" , average, "and your grade is a F, you failed")
